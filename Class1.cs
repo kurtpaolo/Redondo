@@ -18,7 +18,7 @@ namespace Redondo
             sectionInput = Console.ReadLine();
 
             Console.Write("Hello! " + nameInput);
-            Console.Write("from " + sectionInput);
+            Console.Write("Section: " + sectionInput);
 
         }
     }
