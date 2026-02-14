@@ -16,7 +16,7 @@ namespace Redondo
             Console.Write("Enter your section: ");
             section = Console.ReadLine();
 
-            Console.WriteLine("Hello! " + name + "from " + section);
+            Console.WriteLine("Hello! " + name + " from " + section);
         }
     }
 }
