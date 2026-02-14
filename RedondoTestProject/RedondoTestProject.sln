@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedondoTestProject", "RedondoTestProject.csproj", "{C9363A70-A5F5-40EC-B33A-6495642E35EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9363A70-A5F5-40EC-B33A-6495642E35EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9363A70-A5F5-40EC-B33A-6495642E35EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9363A70-A5F5-40EC-B33A-6495642E35EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9363A70-A5F5-40EC-B33A-6495642E35EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555A42F2-2979-4432-A491-BD02D394B706}
+	EndGlobalSection
+EndGlobal
